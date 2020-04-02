@@ -16,7 +16,7 @@ Column | Description
 `party`| Party of respondents
 `startdate` | Start date of poll
 `enddate`| End date of poll
-`pollster` | Organization that conducted the polling
+`pollster` | Organization that conducted the poll
 `sponsor` | Organization that sponsored the poll
 `samplesize` | Size of polling sample
 `population` | `A` for adults, `RV` for registered voters, `LV` for likely voters
