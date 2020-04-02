@@ -1,6 +1,6 @@
 # covid-19-polls
 
-This repository contains the data behind [How Concerned Are Americans About The Coronavirus?](http://projects.fivethirtyeight.com/coronavirus-reaction/)
+This repository contains the data behind [How Concerned Are Americans About The Coronavirus?](http://projects.fivethirtyeight.com/coronavirus-polls/)
 
 
 
