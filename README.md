@@ -6,8 +6,6 @@ This repository contains the data behind [How Concerned Are Americans About The 
 
 ## Polls
 
-### Raw Polls
-
 `covid_approval_polls.csv` contains polls that ask Americans whether or not they approve of the way Trump is handling covid-19.
 
 `covid_concern_polls.csv` contain the polls ask Ameicans how concerned they feel about aspects of the outbreak such as infection and economic impact.
