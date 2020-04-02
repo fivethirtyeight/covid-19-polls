@@ -36,7 +36,7 @@ Column | Description
 `grade` | Grade given to the pollster in our [Pollster Ratings](https://projects.fivethirtyeight.com/pollster-ratings/)
 `weight` | Weight given to each poll in the model 
 `influence` | Weight given to each poll, adjusted for recency
-`multiversions` | `*` if this entry denotes that multiple versions of a poll in the raw data file were combined (see note below)
+`multiversions` | `*` denotes that multiple versions of a poll in the raw data file were combined (see note below)
 
 ## Averages
 
