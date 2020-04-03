@@ -1,6 +1,6 @@
 subject,modeldate,party,very_estimate,somewhat_estimate,not_very_estimate,not_at_all_estimate,timestamp
-concern-infected,4/3/2020,all,32.9665,36.413921,19.133612,10.14452,08:50:06  3 Apr 2020
-concern-economy,4/3/2020,all,54.462539,31.712841,9.6709547,3.0979517,08:50:05  3 Apr 2020
+concern-infected,4/3/2020,all,32.9665,36.413921,19.133612,10.14452,09:30:08  3 Apr 2020
+concern-economy,4/3/2020,all,54.462539,31.712841,9.6709547,3.0979517,09:30:07  3 Apr 2020
 concern-economy,4/2/2020,all,54.5601,31.42808,9.623364,3.319085,17:45:54  2 Apr 2020
 concern-infected,4/2/2020,all,31.81763,36.3726,19.80058,10.62861,17:46:13  2 Apr 2020
 concern-economy,4/1/2020,all,54.5601,31.42808,9.623364,3.319085,17:45:55  2 Apr 2020
