@@ -1,4 +1,5 @@
 start_date,end_date,pollster,sponsor,sample_size,population,party,subject,tracking,text,approve,disapprove,url
+2020-04-03,2020-04-07,Monmouth U.,"",857,a,all,Trump,FALSE,Has the following done a good job or bad job dealing with the coronavirus outbreak: President Trump?,46,49,https://www.monmouth.edu/polling-institute/documents/monmouthpoll_us_040820.pdf/
 2020-04-06,2020-04-07,Ipsos (online),Reuters,1116,a,all,Trump,FALSE,Do you approve or disapprove about the way Donald Trump is handling the following issues? Coronavirus/COVID-19,42,53,https://twitter.com/Cmkahn/status/1247878625963188225
 2020-04-05,2020-04-07,YouGov,Economist,1500,a,all,Trump,FALSE,Do you approve or disapprove of Donald Trump’s handling of the coronavirus outbreak?,46,47,https://docs.cdn.yougov.com/ogvntw3mu9/econTabReport.pdf
 2020-04-05,2020-04-07,YouGov,Economist,362,a,R,Trump,FALSE,Do you approve or disapprove of Donald Trump’s handling of the coronavirus outbreak?,88,8,https://docs.cdn.yougov.com/ogvntw3mu9/econTabReport.pdf
