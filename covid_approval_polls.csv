@@ -1,4 +1,8 @@
 start_date,end_date,pollster,sponsor,sample_size,population,party,subject,tracking,text,approve,disapprove,url
+2020-05-03,2020-05-05,YouGov,Economist,1500,a,all,Trump,FALSE,Do you approve or disapprove of Donald Trump’s handling of COVID-19 outbreak?,44,48,https://docs.cdn.yougov.com/5yope37lqh/econTabReport.pdf
+2020-05-03,2020-05-05,YouGov,Economist,411,a,R,Trump,FALSE,Do you approve or disapprove of Donald Trump’s handling of COVID-19 outbreak?,84,13,https://docs.cdn.yougov.com/5yope37lqh/econTabReport.pdf
+2020-05-03,2020-05-05,YouGov,Economist,523,a,D,Trump,FALSE,Do you approve or disapprove of Donald Trump’s handling of COVID-19 outbreak?,15,80,https://docs.cdn.yougov.com/5yope37lqh/econTabReport.pdf
+2020-05-03,2020-05-05,YouGov,Economist,559,a,I,Trump,FALSE,Do you approve or disapprove of Donald Trump’s handling of COVID-19 outbreak?,39,46,https://docs.cdn.yougov.com/5yope37lqh/econTabReport.pdf
 2020-05-02,2020-05-05,Civiqs,Daily Kos,1546,a,all,Trump,FALSE,Do you approve or disapprove of the way Donald Trump is handling the response to the coronavirus?,40,54,https://civiqs.com/documents/Civiqs_DailyKos_monthly_banner_book_2020_05_r8c32an.pdf
 2020-05-02,2020-05-05,Civiqs,Daily Kos,417.42,a,R,Trump,FALSE,Do you approve or disapprove of the way Donald Trump is handling the response to the coronavirus?,80,9,https://civiqs.com/documents/Civiqs_DailyKos_monthly_banner_book_2020_05_r8c32an.pdf
 2020-05-02,2020-05-05,Civiqs,Daily Kos,510.18,a,D,Trump,FALSE,Do you approve or disapprove of the way Donald Trump is handling the response to the coronavirus?,5,93,https://civiqs.com/documents/Civiqs_DailyKos_monthly_banner_book_2020_05_r8c32an.pdf
