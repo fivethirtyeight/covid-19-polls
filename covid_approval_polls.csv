@@ -1,4 +1,5 @@
 start_date,end_date,pollster,sponsor,sample_size,population,party,subject,tracking,text,approve,disapprove,url
+2020-05-18,2020-05-19,Ipsos (online),Reuters,1115,a,all,Trump,FALSE,Do you approve or disapprove about the way Donald Trump is handling the following issues? Coronavirus/COVID-19,42,52,https://www.ipsos.com/sites/default/files/ct/news/documents/2020-05/2020_reuters_tracking_-_core_political_coronavirus_tracker_05_20_2020.pdf
 2020-05-17,2020-05-19,YouGov,Economist,1500,a,all,Trump,FALSE,Do you approve or disapprove of Donald Trump’s handling of COVID-19 outbreak?,42,49,https://docs.cdn.yougov.com/q0t43bjops/econTabReport.pdf
 2020-05-17,2020-05-19,YouGov,Economist,381,a,R,Trump,FALSE,Do you approve or disapprove of Donald Trump’s handling of COVID-19 outbreak?,85,13,https://docs.cdn.yougov.com/q0t43bjops/econTabReport.pdf
 2020-05-17,2020-05-19,YouGov,Economist,534,a,D,Trump,FALSE,Do you approve or disapprove of Donald Trump’s handling of COVID-19 outbreak?,16,79,https://docs.cdn.yougov.com/q0t43bjops/econTabReport.pdf
