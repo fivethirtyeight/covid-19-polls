@@ -1,4 +1,8 @@
 start_date,end_date,pollster,sponsor,sample_size,population,party,subject,tracking,text,approve,disapprove,url
+2020-06-09,2020-06-10,YouGov,Yahoo News,1570,a,all,Trump,FALSE,Do you approve or disapprove of President Trump’s handling of the following things? Coronavirus,41,55,https://docs.cdn.yougov.com/86ijosd7cy/20200611_yahoo_race_police_covid_crosstabs.pdf
+2020-06-09,2020-06-10,YouGov,Yahoo News,432,a,R,Trump,FALSE,Do you approve or disapprove of President Trump’s handling of the following things? Coronavirus,81,17,https://docs.cdn.yougov.com/86ijosd7cy/20200611_yahoo_race_police_covid_crosstabs.pdf
+2020-06-09,2020-06-10,YouGov,Yahoo News,527,a,D,Trump,FALSE,Do you approve or disapprove of President Trump’s handling of the following things? Coronavirus,16,81,https://docs.cdn.yougov.com/86ijosd7cy/20200611_yahoo_race_police_covid_crosstabs.pdf
+2020-06-09,2020-06-10,YouGov,Yahoo News,454,a,I,Trump,FALSE,Do you approve or disapprove of President Trump’s handling of the following things? Coronavirus,33,60,https://docs.cdn.yougov.com/86ijosd7cy/20200611_yahoo_race_police_covid_crosstabs.pdf
 2020-06-07,2020-06-09,YouGov,Economist,1500,a,all,Trump,FALSE,Do you approve or disapprove of Donald Trump’s handling of COVID-19 outbreak?,44,50,https://docs.cdn.yougov.com/ngcg634q9k/econTabReport.pdf
 2020-06-07,2020-06-09,YouGov,Economist,339,a,R,Trump,FALSE,Do you approve or disapprove of Donald Trump’s handling of COVID-19 outbreak?,83,14,https://docs.cdn.yougov.com/ngcg634q9k/econTabReport.pdf
 2020-06-07,2020-06-09,YouGov,Economist,567,a,D,Trump,FALSE,Do you approve or disapprove of Donald Trump’s handling of COVID-19 outbreak?,15,82,https://docs.cdn.yougov.com/ngcg634q9k/econTabReport.pdf
