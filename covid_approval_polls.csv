@@ -1,4 +1,5 @@
 start_date,end_date,pollster,sponsor,sample_size,population,party,subject,tracking,text,approve,disapprove,url
+2020-06-17,2020-06-18,Ipsos (online),ABC News,727,a,all,Trump,FALSE,Do you approve or disapprove of the way Donald Trump is handling the response to the coronavirus (COVID-19)?,41,58,https://abcnews.go.com/Politics/approval-trumps-coronavirus-response-underwater-returns-campaign-trail/story?id=71351241
 2020-06-14,2020-06-16,YouGov,Economist,1500,a,all,Trump,FALSE,Do you approve or disapprove of Donald Trump’s handling of COVID-19 outbreak?,40,51,https://docs.cdn.yougov.com/vgqowgynze/econTabReport.pdf
 2020-06-14,2020-06-16,YouGov,Economist,381,a,R,Trump,FALSE,Do you approve or disapprove of Donald Trump’s handling of COVID-19 outbreak?,81,13,https://docs.cdn.yougov.com/vgqowgynze/econTabReport.pdf
 2020-06-14,2020-06-16,YouGov,Economist,517,a,D,Trump,FALSE,Do you approve or disapprove of Donald Trump’s handling of COVID-19 outbreak?,7,89,https://docs.cdn.yougov.com/vgqowgynze/econTabReport.pdf
