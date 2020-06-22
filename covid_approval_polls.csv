@@ -1,4 +1,8 @@
 start_date,end_date,pollster,sponsor,sample_size,population,party,subject,tracking,text,approve,disapprove,url
+2020-06-17,2020-06-20,American Research Group,"",1100,a,all,Trump,FALSE,Do you approve or disapprove of the way Donald Trump is handling the coronavirus outbreak?,37,58,https://americanresearchgroup.com/economy/
+2020-06-17,2020-06-20,American Research Group,"",257,a,R,Trump,FALSE,Do you approve or disapprove of the way Donald Trump is handling the coronavirus outbreak?,74,22,https://americanresearchgroup.com/economy/
+2020-06-17,2020-06-20,American Research Group,"",356,a,D,Trump,FALSE,Do you approve or disapprove of the way Donald Trump is handling the coronavirus outbreak?,9,87,https://americanresearchgroup.com/economy/
+2020-06-17,2020-06-20,American Research Group,"",380,a,I,Trump,FALSE,Do you approve or disapprove of the way Donald Trump is handling the coronavirus outbreak?,38,55,https://americanresearchgroup.com/economy/
 2020-06-17,2020-06-18,Ipsos (online),ABC News,727,a,all,Trump,FALSE,Do you approve or disapprove of the way Donald Trump is handling the response to the coronavirus (COVID-19)?,41,58,https://abcnews.go.com/Politics/approval-trumps-coronavirus-response-underwater-returns-campaign-trail/story?id=71351241
 2020-06-14,2020-06-16,YouGov,Economist,1500,a,all,Trump,FALSE,Do you approve or disapprove of Donald Trump’s handling of COVID-19 outbreak?,40,51,https://docs.cdn.yougov.com/vgqowgynze/econTabReport.pdf
 2020-06-14,2020-06-16,YouGov,Economist,381,a,R,Trump,FALSE,Do you approve or disapprove of Donald Trump’s handling of COVID-19 outbreak?,81,13,https://docs.cdn.yougov.com/vgqowgynze/econTabReport.pdf
