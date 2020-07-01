@@ -1,4 +1,5 @@
 start_date,end_date,pollster,sponsor,sample_size,population,party,subject,tracking,text,approve,disapprove,url
+2020-06-25,2020-06-30,Global Strategy Group/GBAO/Navigator Research,"",1204,rv,all,Trump,FALSE,Do you approve or disapprove of the way that Donald Trump is handling the coronavirus pandemic?,40,58,https://navigatorresearch.org/wp-content/uploads/2020/07/Navigating-Coronavirus-Update-07.01.20.pdf
 2020-06-26,2020-06-29,YouGov,Huffington Post,1000,a,all,Trump,FALSE,Do you approve or disapprove of the way President Trump is handling issues related to the coronavirus?,45,51,https://docs.cdn.yougov.com/byy9drb31x/tabs_HP_Coronavirus_20200626.pdf
 2020-06-26,2020-06-29,YouGov,Huffington Post,233,a,R,Trump,FALSE,Do you approve or disapprove of the way President Trump is handling issues related to the coronavirus?,80,18,https://docs.cdn.yougov.com/byy9drb31x/tabs_HP_Coronavirus_20200626.pdf
 2020-06-26,2020-06-29,YouGov,Huffington Post,336,a,D,Trump,FALSE,Do you approve or disapprove of the way President Trump is handling issues related to the coronavirus?,12,87,https://docs.cdn.yougov.com/byy9drb31x/tabs_HP_Coronavirus_20200626.pdf
