@@ -1,4 +1,8 @@
 start_date,end_date,pollster,sponsor,sample_size,population,party,subject,tracking,text,approve,disapprove,url
+2020-07-05,2020-07-07,YouGov,Economist,1500,a,all,Trump,FALSE,Do you approve or disapprove of Donald Trump’s handling of COVID-19 outbreak?,39,57,https://docs.cdn.yougov.com/lraqqdhd7j/econTabReport.pdf
+2020-07-05,2020-07-07,YouGov,Economist,351,a,R,Trump,FALSE,Do you approve or disapprove of Donald Trump’s handling of COVID-19 outbreak?,79,18,https://docs.cdn.yougov.com/lraqqdhd7j/econTabReport.pdf
+2020-07-05,2020-07-07,YouGov,Economist,565,a,D,Trump,FALSE,Do you approve or disapprove of Donald Trump’s handling of COVID-19 outbreak?,11,88,https://docs.cdn.yougov.com/lraqqdhd7j/econTabReport.pdf
+2020-07-05,2020-07-07,YouGov,Economist,580,a,I,Trump,FALSE,Do you approve or disapprove of Donald Trump’s handling of COVID-19 outbreak?,35,56,https://docs.cdn.yougov.com/lraqqdhd7j/econTabReport.pdf
 2020-07-03,2020-07-06,YouGov,Huffington Post,1000,a,all,Trump,FALSE,Do you approve or disapprove of the way President Trump is handling issues related to the coronavirus?,41,53,https://docs.cdn.yougov.com/t8umayhzsr/tabs_HP_Coronavirus_20200703.pdf
 2020-07-03,2020-07-06,YouGov,Huffington Post,226,a,R,Trump,FALSE,Do you approve or disapprove of the way President Trump is handling issues related to the coronavirus?,83,15,https://docs.cdn.yougov.com/t8umayhzsr/tabs_HP_Coronavirus_20200703.pdf
 2020-07-03,2020-07-06,YouGov,Huffington Post,354,a,D,Trump,FALSE,Do you approve or disapprove of the way President Trump is handling issues related to the coronavirus?,8,90,https://docs.cdn.yougov.com/t8umayhzsr/tabs_HP_Coronavirus_20200703.pdf
