@@ -1,4 +1,6 @@
 start_date,end_date,pollster,sponsor,sample_size,population,party,subject,tracking,text,very,somewhat,not_very,not_at_all,url
+2020-07-06,2020-07-12,SurveyMonkey,NBC News,53106,a,all,concern-economy,FALSE,"How worried are you that the coronavirus outbreak will have a negative economic effect on the United States?
+",64,27,6,2,https://www.surveymonkey.com/curiosity/nbc-poll-covid-july12/
 2020-06-29,2020-07-05,SurveyMonkey,NBC News,44557,a,all,concern-economy,FALSE,"How worried are you that the coronavirus outbreak will have a negative economic effect on the United States?
 ",65,26,6,2,https://www.surveymonkey.com/curiosity/nbc-poll-covid-july5/
 2020-07-02,2020-07-04,Harris Poll,"",1957,a,all,concern-economy,FALSE,How concerned are you about the impact coronavirus (COVID-19) has on the following? The American economy,54,34,8,4,https://theharrispoll.com/wp-content/uploads/2020/07/Wave-19_tabs_Banner-1.pdf
