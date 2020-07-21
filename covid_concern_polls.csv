@@ -1,4 +1,6 @@
 start_date,end_date,pollster,sponsor,sample_size,population,party,subject,tracking,text,very,somewhat,not_very,not_at_all,url
+2020-07-13,2020-07-19,SurveyMonkey,NBC News,50404,a,all,concern-economy,FALSE,"How worried are you that the coronavirus outbreak will have a negative economic effect on the United States?
+",66,25,6,2,https://www.surveymonkey.com/curiosity/nbc-poll-covid-july19/
 2020-07-10,2020-07-13,Ipsos (online),Axios,1063,a,all,concern-economy,FALSE,"How concerned are you, if at all, with the following? The U.S. economy collapsing during the coronavirus outbreak",52,32,10,3,https://www.ipsos.com/sites/default/files/ct/news/documents/2020-07/topline-axios-poll-w16.pdf
 2020-07-09,2020-07-13,Global Strategy Group/GBAO/Navigator Research,"",1002,rv,all,concern-economy,FALSE,Below are some things some people might be worried about in light of the coronavirus pandemic. Please indicate how worried you are about each one. The economy falling into a recession,47,39,10,4,https://navigatorresearch.org/wp-content/uploads/2020/07/Navigating-Coronavirus-Full-Topline-07.14.20.pdf
 2020-07-10,2020-07-12,Harris Poll,"",1974,a,all,concern-economy,FALSE,How concerned are you about the impact coronavirus (COVID-19) has on the following? The American economy,50,36,9,5,https://theharrispoll.com/wp-content/uploads/2020/07/Wave-20_tabs_Banner-1.pdf
