@@ -1,4 +1,5 @@
 start_date,end_date,pollster,sponsor,sample_size,population,party,subject,tracking,text,approve,disapprove,url
+2020-08-03,2020-08-04,Ipsos (online),Reuters,964,rv,all,Trump,FALSE,Do you approve or disapprove of the way Donald Trump is handling the following issues? Coronavirus/COVID-19,38,57,""
 2020-07-31,2020-08-03,YouGov,Huffington Post,1000,a,all,Trump,FALSE,Do you approve or disapprove of the way President Trump is handling issues related to the coronavirus?,41,52,https://big.assets.huffingtonpost.com/athena/files/2020/08/04/5f29e971c5b656e9b0a17c7e.pdf
 2020-07-31,2020-08-03,YouGov,Huffington Post,233,a,R,Trump,FALSE,Do you approve or disapprove of the way President Trump is handling issues related to the coronavirus?,81,15,https://big.assets.huffingtonpost.com/athena/files/2020/08/04/5f29e971c5b656e9b0a17c7e.pdf
 2020-07-31,2020-08-03,YouGov,Huffington Post,353,a,D,Trump,FALSE,Do you approve or disapprove of the way President Trump is handling issues related to the coronavirus?,13,86,https://big.assets.huffingtonpost.com/athena/files/2020/08/04/5f29e971c5b656e9b0a17c7e.pdf
