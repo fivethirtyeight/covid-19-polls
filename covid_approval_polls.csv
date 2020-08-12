@@ -1,4 +1,8 @@
 start_date,end_date,pollster,sponsor,sample_size,population,party,subject,tracking,text,approve,disapprove,url
+2020-08-09,2020-08-11,YouGov,Economist,1500,a,all,Trump,FALSE,Do you approve or disapprove of Donald Trump’s handling of COVID-19 outbreak?,40,54,https://docs.cdn.yougov.com/horeovzt7u/econTabReport.pdf
+2020-08-09,2020-08-11,YouGov,Economist,363,a,R,Trump,FALSE,Do you approve or disapprove of Donald Trump’s handling of COVID-19 outbreak?,83,15,https://docs.cdn.yougov.com/horeovzt7u/econTabReport.pdf
+2020-08-09,2020-08-11,YouGov,Economist,562,a,D,Trump,FALSE,Do you approve or disapprove of Donald Trump’s handling of COVID-19 outbreak?,9,87,https://docs.cdn.yougov.com/horeovzt7u/econTabReport.pdf
+2020-08-09,2020-08-11,YouGov,Economist,570,a,I,Trump,FALSE,Do you approve or disapprove of Donald Trump’s handling of COVID-19 outbreak?,37,51,https://docs.cdn.yougov.com/horeovzt7u/econTabReport.pdf
 2020-08-09,2020-08-10,Morning Consult,Politico,1983,rv,all,Trump,FALSE,How would you rate each of the following on their handling of the coronavirus? President Donald Trump,35,61,https://assets.morningconsult.com/wp-uploads/2020/08/12074528/200842_crosstabs_POLITICO_RVs_v1_AUTO.pdf
 2020-08-09,2020-08-10,Morning Consult,Politico,692,rv,R,Trump,FALSE,How would you rate each of the following on their handling of the coronavirus? President Donald Trump,73,23,https://assets.morningconsult.com/wp-uploads/2020/08/12074528/200842_crosstabs_POLITICO_RVs_v1_AUTO.pdf
 2020-08-09,2020-08-10,Morning Consult,Politico,812,rv,D,Trump,FALSE,How would you rate each of the following on their handling of the coronavirus? President Donald Trump,8,90,https://assets.morningconsult.com/wp-uploads/2020/08/12074528/200842_crosstabs_POLITICO_RVs_v1_AUTO.pdf
