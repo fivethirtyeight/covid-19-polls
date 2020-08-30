@@ -1,4 +1,5 @@
 start_date,end_date,pollster,sponsor,sample_size,population,party,subject,tracking,text,approve,disapprove,url
+2020-08-28,2020-08-29,Ipsos (online),ABC News,732,a,all,Trump,FALSE,Do you approve or disapprove of the way Donald Trump is handling the response to the coronavirus (COVID-19)?,35,63,https://www.ipsos.com/sites/default/files/ct/news/documents/2020-08/topline-abc-ipsos-poll-aug30.pdf
 2020-08-27,2020-08-28,YouGov,Yahoo News,1001,a,all,Trump,FALSE,Do you approve or disapprove of the way Donald Trump has handled COVID-19?,40,55,https://docs.cdn.yougov.com/trcdohan8j/20200828_yahoo_coronavirus_crosstabs.pdf
 2020-08-27,2020-08-28,YouGov,Yahoo News,220,a,R,Trump,FALSE,Do you approve or disapprove of the way Donald Trump has handled COVID-19?,80,18,https://docs.cdn.yougov.com/trcdohan8j/20200828_yahoo_coronavirus_crosstabs.pdf
 2020-08-27,2020-08-28,YouGov,Yahoo News,369,a,D,Trump,FALSE,Do you approve or disapprove of the way Donald Trump has handled COVID-19?,11,86,https://docs.cdn.yougov.com/trcdohan8j/20200828_yahoo_coronavirus_crosstabs.pdf
