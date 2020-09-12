@@ -1,4 +1,8 @@
 start_date,end_date,pollster,sponsor,sample_size,population,party,subject,tracking,text,approve,disapprove,url
+2020-09-09,2020-09-11,YouGov,Yahoo News,1577,a,all,Trump,FALSE,Do you approve or disapprove of the way Donald Trump has handled COVID-19?,39,52,https://docs.cdn.yougov.com/c97p828als/20200911_yahoo_coronavirus_crosstabs.pdf
+2020-09-09,2020-09-11,YouGov,Yahoo News,394,a,R,Trump,FALSE,Do you approve or disapprove of the way Donald Trump has handled COVID-19?,82,15,https://docs.cdn.yougov.com/c97p828als/20200911_yahoo_coronavirus_crosstabs.pdf
+2020-09-09,2020-09-11,YouGov,Yahoo News,568,a,D,Trump,FALSE,Do you approve or disapprove of the way Donald Trump has handled COVID-19?,12,84,https://docs.cdn.yougov.com/c97p828als/20200911_yahoo_coronavirus_crosstabs.pdf
+2020-09-09,2020-09-11,YouGov,Yahoo News,428,a,I,Trump,FALSE,Do you approve or disapprove of the way Donald Trump has handled COVID-19?,34,55,https://docs.cdn.yougov.com/c97p828als/20200911_yahoo_coronavirus_crosstabs.pdf
 2020-09-06,2020-09-08,YouGov,Economist,1500,a,all,Trump,FALSE,Do you approve or disapprove of Donald Trump’s handling of COVID-19 outbreak?,40,52,https://docs.cdn.yougov.com/8nwf5tw7g2/econTabReport.pdf
 2020-09-06,2020-09-08,YouGov,Economist,370,a,R,Trump,FALSE,Do you approve or disapprove of Donald Trump’s handling of COVID-19 outbreak?,82,14,https://docs.cdn.yougov.com/8nwf5tw7g2/econTabReport.pdf
 2020-09-06,2020-09-08,YouGov,Economist,510,a,D,Trump,FALSE,Do you approve or disapprove of Donald Trump’s handling of COVID-19 outbreak?,11,84,https://docs.cdn.yougov.com/8nwf5tw7g2/econTabReport.pdf
