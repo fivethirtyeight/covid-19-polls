@@ -1914,3 +1914,4 @@ start_date,end_date,pollster,sponsor,sample_size,population,party,subject,tracki
 2020-10-11,2020-10-13,YouGov,Economist,566,rv,D,Trump,FALSE,Do you approve or disapprove of the way Donald Trump has handled COVID-19?,2,93,https://docs.cdn.yougov.com/1ace2lgidt/econTabReport.pdf
 2020-10-11,2020-10-13,YouGov,Economist,524,rv,I,Trump,FALSE,Do you approve or disapprove of the way Donald Trump has handled COVID-19?,41,55,https://docs.cdn.yougov.com/1ace2lgidt/econTabReport.pdf
 2020-10-09,2020-10-13,Ipsos (online),Reuters,1303,a,all,Trump,FALSE,Do you approve or disapprove of the way Trump is handling coronavirus / COVID-19?,41,53,https://www.ipsos.com/en-us/reutersipsos-core-political-survey-general-election-tracker-10142020
+2020-10-08,2020-10-12,AP-NORC,"",1121,a,all,Trump,FALSE,"Overall, do you approve or disapprove of the way Donald Trump is handling…? The coronavirus outbreak",33,66,https://apnorc.org/wp-content/uploads/2020/10/topline_october_trumpcovid.pdf
