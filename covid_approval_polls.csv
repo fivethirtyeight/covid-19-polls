@@ -1948,3 +1948,7 @@ start_date,end_date,pollster,sponsor,sample_size,population,party,subject,tracki
 2020-10-16,2020-10-18,YouGov,Yahoo News,622,rv,D,Trump,FALSE,Do you approve or disapprove of the way Donald Trump has handled COVID-19?,7,89,https://docs.cdn.yougov.com/77ukszgou2/20201019_yahoo_tabs.pdf
 2020-10-16,2020-10-18,YouGov,Yahoo News,453,rv,I,Trump,FALSE,Do you approve or disapprove of the way Donald Trump has handled COVID-19?,40,57,https://docs.cdn.yougov.com/77ukszgou2/20201019_yahoo_tabs.pdf
 2020-10-16,2020-10-18,YouGov,Yahoo News,1467,lv,all,Trump,FALSE,Do you approve or disapprove of the way Donald Trump has handled COVID-19?,41,57,https://docs.cdn.yougov.com/77ukszgou2/20201019_yahoo_tabs.pdf
+2020-10-08,2020-10-14,Nationscape,"",8000,a,all,Trump,FALSE,Do you approve or disapprove of Donald Trump’s handling of the coronavirus outbreak?,40,56,https://www.voterstudygroup.org/covid-19-updates
+2020-10-08,2020-10-14,Nationscape,"",2300,a,R,Trump,FALSE,Do you approve or disapprove of Donald Trump’s handling of the coronavirus outbreak?,76,20,https://www.voterstudygroup.org/covid-19-updates
+2020-10-08,2020-10-14,Nationscape,"",2800,a,D,Trump,FALSE,Do you approve or disapprove of Donald Trump’s handling of the coronavirus outbreak?,12,86,https://www.voterstudygroup.org/covid-19-updates
+2020-10-08,2020-10-14,Nationscape,"",2300,a,I,Trump,FALSE,Do you approve or disapprove of Donald Trump’s handling of the coronavirus outbreak?,27,54,https://www.voterstudygroup.org/covid-19-updates
