@@ -2179,3 +2179,4 @@ start_date,end_date,pollster,sponsor,sample_size,population,party,subject,tracki
 2021-01-03,2021-01-05,YouGov,Economist,375,a,R,Trump,FALSE,Do you approve or disapprove of the way Donald Trump has handled COVID-19?,80,19,https://docs.cdn.yougov.com/9dnks44r2n/econTabReport.pdf
 2021-01-03,2021-01-05,YouGov,Economist,564,a,D,Trump,FALSE,Do you approve or disapprove of the way Donald Trump has handled COVID-19?,8,87,https://docs.cdn.yougov.com/9dnks44r2n/econTabReport.pdf
 2021-01-03,2021-01-05,YouGov,Economist,558,a,I,Trump,FALSE,Do you approve or disapprove of the way Donald Trump has handled COVID-19?,37,50,https://docs.cdn.yougov.com/9dnks44r2n/econTabReport.pdf
+2020-12-30,2021-01-03,HarrisX,Hill.TV,3787,rv,all,Trump,FALSE,Do you approve or disapprove of the job President Trump is doing handling the coronavirus outbreak?,47,53,https://thehill.com/hilltv/what-americas-thinking/532918-what-americas-thinking-january-06-2021
