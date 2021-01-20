@@ -2221,3 +2221,7 @@ start_date,end_date,pollster,sponsor,sample_size,population,party,subject,tracki
 2021-01-16,2021-01-19,American Research Group,"",299,a,R,Trump,FALSE,Do you approve or disapprove of the way Donald Trump is handling the coronavirus outbreak?,59,35,https://americanresearchgroup.com/economy/
 2021-01-16,2021-01-19,American Research Group,"",359,a,D,Trump,FALSE,Do you approve or disapprove of the way Donald Trump is handling the coronavirus outbreak?,1,97,https://americanresearchgroup.com/economy/
 2021-01-16,2021-01-19,American Research Group,"",332,a,I,Trump,FALSE,Do you approve or disapprove of the way Donald Trump is handling the coronavirus outbreak?,31,68,https://americanresearchgroup.com/economy/
+2021-01-16,2021-01-19,YouGov,Economist,1500,a,all,Trump,FALSE,Do you approve or disapprove of the way Donald Trump has handled COVID-19?,40,53,https://docs.cdn.yougov.com/4k61xul7y7/econTabReport.pdf
+2021-01-16,2021-01-19,YouGov,Economist,293,a,R,Trump,FALSE,Do you approve or disapprove of the way Donald Trump has handled COVID-19?,80,16,https://docs.cdn.yougov.com/4k61xul7y7/econTabReport.pdf
+2021-01-16,2021-01-19,YouGov,Economist,601,a,D,Trump,FALSE,Do you approve or disapprove of the way Donald Trump has handled COVID-19?,11,87,https://docs.cdn.yougov.com/4k61xul7y7/econTabReport.pdf
+2021-01-16,2021-01-19,YouGov,Economist,600,a,I,Trump,FALSE,Do you approve or disapprove of the way Donald Trump has handled COVID-19?,38,50,https://docs.cdn.yougov.com/4k61xul7y7/econTabReport.pdf
