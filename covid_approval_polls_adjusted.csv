@@ -1,4 +1,10 @@
 subject,modeldate,party,startdate,enddate,pollster,grade,samplesize,population,weight,influence,multiversions,tracking,approve,disapprove,approve_adjusted,disapprove_adjusted,timestamp,url
+Biden,2/16/2021,D,1/28/2021,2/1/2021,Quinnipiac University,B+,333.25,a,.6551909,.42620719,"","",93,5,92.092305,5.1974313,09:45:09 16 Feb 2021,https://poll.qu.edu/national/release-detail?ReleaseID=3688
+Biden,2/16/2021,D,1/29/2021,2/1/2021,Morning Consult,B/C,808,rv,.86255562,.59459479,"","",89,7,88.97904,6.7221949,09:45:09 16 Feb 2021,https://assets.morningconsult.com/wp-uploads/2021/02/03074817/2101110_crosstabs_POLITICO_RVs_v1.pdf
+Biden,2/16/2021,D,1/31/2021,2/2/2021,YouGov,B,484,a,.50353175,.3631372,"","",88,7,88.675477,7.2223092,09:45:09 16 Feb 2021,https://docs.cdn.yougov.com/460mactkmh/econTabReport.pdf
+Biden,2/16/2021,D,2/2/2021,2/2/2021,Data for Progress,B-,564,a,.82275027,.63105407,"","",89.22,7.14,89.192368,6.9082675,09:45:09 16 Feb 2021,https://docs.google.com/spreadsheets/d/1dmzc8DpmtpppErDUVQWbqO9WofnPnccC4fQz2vEWDww/edit#gid=0
+Biden,2/16/2021,D,2/5/2021,2/7/2021,YouGov,B,336,a,.35110101,.32310443,"","",88,8,88.675477,8.2223092,09:45:09 16 Feb 2021,https://big.assets.huffingtonpost.com/athena/files/2021/02/11/6025c47bc5b6741597e0e0f2.pdf
+Biden,2/16/2021,D,2/6/2021,2/9/2021,YouGov,B,566,a,.60474521,.60474521,"","",89,5,89.675477,5.2223092,09:45:09 16 Feb 2021,https://docs.cdn.yougov.com/rqqxdo2ujy/econTabReport.pdf
 Trump,2/16/2021,D,2/2/2020,2/4/2020,YouGov,B,523,a,.54223928,0,"","",21,51,19.910134,53.038599,09:45:12 16 Feb 2021,https://d25d2506sfb94s.cloudfront.net/cumulus_uploads/document/73jqd6u5mv/econTabReport.pdf
 Trump,2/16/2021,D,2/7/2020,2/9/2020,Morning Consult,B/C,817,a,.5921002,0,"","",37,37,35.78526,40.361656,09:45:12 16 Feb 2021,https://morningconsult.com/wp-content/uploads/2020/02/200214_crosstabs_CORONAVIRUS_Adults_v4_JB.pdf
 Trump,2/16/2021,D,2/9/2020,2/11/2020,YouGov,B,510,a,.44871836,0,"","",19,50,17.910134,52.038599,09:45:12 16 Feb 2021,https://d25d2506sfb94s.cloudfront.net/cumulus_uploads/document/79zfxkws33/econTabReport.pdf
@@ -509,6 +515,12 @@ Trump,2/16/2021,D,1/13/2021,1/13/2021,Data for Progress,B-,448,a,.67196593,.5470
 Trump,2/16/2021,D,1/12/2021,1/18/2021,UCLA Nationscape,"",2800,a,.7837686,.6876399,"","",18,78,13.60204,83.072075,09:45:12 16 Feb 2021,https://www.voterstudygroup.org/covid-19-updates
 Trump,2/16/2021,D,1/16/2021,1/19/2021,YouGov,B,601,a,.65833944,.65833944,"","",11,87,9.9101342,89.038599,09:45:12 16 Feb 2021,https://docs.cdn.yougov.com/4k61xul7y7/econTabReport.pdf
 Trump,2/16/2021,D,1/16/2021,1/19/2021,American Research Group,B,359,a,.63663548,.63663548,"","",1,97,3.4254154,96.09281,09:45:12 16 Feb 2021,https://americanresearchgroup.com/economy/
+Biden,2/16/2021,I,1/24/2021,1/26/2021,YouGov,B,645,a,.71006401,.30769462,"","",46,25,47.934208,24.714466,09:45:12 16 Feb 2021,https://docs.cdn.yougov.com/ld46rgtdlz/econTabReport.pdf
+Biden,2/16/2021,I,1/28/2021,2/1/2021,Quinnipiac University,B+,376.25,a,.72641362,.47253817,"","",59,29,57.043493,29.466822,09:45:12 16 Feb 2021,https://poll.qu.edu/national/release-detail?ReleaseID=3688
+Biden,2/16/2021,I,1/29/2021,2/1/2021,Morning Consult,B/C,575,rv,.72559306,.50018091,"","",53,32,52.2396,31.905423,09:45:12 16 Feb 2021,https://assets.morningconsult.com/wp-uploads/2021/02/03074817/2101110_crosstabs_POLITICO_RVs_v1.pdf
+Biden,2/16/2021,I,1/31/2021,2/2/2021,YouGov,B,448,a,.46104321,.33237081,"","",46,36,47.934208,35.714466,09:45:12 16 Feb 2021,https://docs.cdn.yougov.com/460mactkmh/econTabReport.pdf
+Biden,2/16/2021,I,2/5/2021,2/7/2021,YouGov,B,410,a,.43071197,.39621088,"","",40,37,41.934208,36.714466,09:45:12 16 Feb 2021,https://big.assets.huffingtonpost.com/athena/files/2021/02/11/6025c47bc5b6741597e0e0f2.pdf
+Biden,2/16/2021,I,2/6/2021,2/9/2021,YouGov,B,408,a,.44351069,.44351069,"","",44,38,45.934208,37.714466,09:45:12 16 Feb 2021,https://docs.cdn.yougov.com/rqqxdo2ujy/econTabReport.pdf
 Trump,2/16/2021,I,2/2/2020,2/4/2020,YouGov,B,599,a,.57670861,0,"","",39,25,37.556074,30.400236,09:45:16 16 Feb 2021,https://d25d2506sfb94s.cloudfront.net/cumulus_uploads/document/73jqd6u5mv/econTabReport.pdf
 Trump,2/16/2021,I,2/7/2020,2/9/2020,Morning Consult,B/C,700,a,.56284347,0,"","",50,22,52.273355,24.32371,09:45:16 16 Feb 2021,https://morningconsult.com/wp-content/uploads/2020/02/200214_crosstabs_CORONAVIRUS_Adults_v4_JB.pdf
 Trump,2/16/2021,I,2/9/2020,2/11/2020,YouGov,B,607,a,.49300203,0,"","",33,25,31.556074,30.400236,09:45:16 16 Feb 2021,https://d25d2506sfb94s.cloudfront.net/cumulus_uploads/document/79zfxkws33/econTabReport.pdf
@@ -988,6 +1000,13 @@ Trump,2/16/2021,I,1/11/2021,1/13/2021,Marist College,A+,384.56,rv,.82003708,.659
 Trump,2/16/2021,I,1/12/2021,1/18/2021,UCLA Nationscape,"",2300,a,.76163119,.68124181,"","",32,45,37.598085,49.991222,09:45:16 16 Feb 2021,https://www.voterstudygroup.org/covid-19-updates
 Trump,2/16/2021,I,1/16/2021,1/19/2021,American Research Group,B,332,a,.5988741,.5988741,"","",31,68,31.43098,68.031543,09:45:16 16 Feb 2021,https://americanresearchgroup.com/economy/
 Trump,2/16/2021,I,1/16/2021,1/19/2021,YouGov,B,600,a,.64895012,.64895012,"","",38,50,36.556074,55.400236,09:45:16 16 Feb 2021,https://docs.cdn.yougov.com/4k61xul7y7/econTabReport.pdf
+Biden,2/16/2021,R,1/24/2021,1/26/2021,YouGov,B,369,a,.48226046,.20981072,"","",24,54,25.480179,54.017574,09:45:16 16 Feb 2021,https://docs.cdn.yougov.com/ld46rgtdlz/econTabReport.pdf
+Biden,2/16/2021,R,1/28/2021,2/1/2021,Quinnipiac University,B+,247.25,a,.50461247,.32825466,"","",33,56,31.939107,56.711184,09:45:16 16 Feb 2021,https://poll.qu.edu/national/release-detail?ReleaseID=3688
+Biden,2/16/2021,R,1/29/2021,2/1/2021,Morning Consult,B/C,603,rv,.74463244,.51330553,"","",33,58,31.409308,58.626406,09:45:16 16 Feb 2021,https://assets.morningconsult.com/wp-uploads/2021/02/03074817/2101110_crosstabs_POLITICO_RVs_v1.pdf
+Biden,2/16/2021,R,1/31/2021,2/2/2021,YouGov,B,410,a,.49418541,.3570648,"","",23,62,24.480179,62.017574,09:45:16 16 Feb 2021,https://docs.cdn.yougov.com/460mactkmh/econTabReport.pdf
+Biden,2/16/2021,R,2/2/2021,2/2/2021,Data for Progress,B-,411,a,.66513647,.5101634,"","",24.34,67.05,24.802236,65.734218,09:45:16 16 Feb 2021,https://docs.google.com/spreadsheets/d/1dmzc8DpmtpppErDUVQWbqO9WofnPnccC4fQz2vEWDww/edit#gid=0
+Biden,2/16/2021,R,2/5/2021,2/7/2021,YouGov,B,243,a,.29750054,.27383619,"","",23,65,24.480179,65.017574,09:45:16 16 Feb 2021,https://big.assets.huffingtonpost.com/athena/files/2021/02/11/6025c47bc5b6741597e0e0f2.pdf
+Biden,2/16/2021,R,2/6/2021,2/9/2021,YouGov,B,355,a,.44503392,.44503392,"","",18,65,19.480179,65.017574,09:45:16 16 Feb 2021,https://docs.cdn.yougov.com/rqqxdo2ujy/econTabReport.pdf
 Trump,2/16/2021,R,2/2/2020,2/4/2020,YouGov,B,376,a,.45929131,0,"","",75,6,74.158065,7.3768021,09:45:20 16 Feb 2021,https://d25d2506sfb94s.cloudfront.net/cumulus_uploads/document/73jqd6u5mv/econTabReport.pdf
 Trump,2/16/2021,R,2/7/2020,2/9/2020,Morning Consult,B/C,684,a,.54676821,0,"","",88,4,89.302303,3.5758048,09:45:20 16 Feb 2021,https://morningconsult.com/wp-content/uploads/2020/02/200214_crosstabs_CORONAVIRUS_Adults_v4_JB.pdf
 Trump,2/16/2021,R,2/9/2020,2/11/2020,YouGov,B,378,a,.40206461,0,"","",74,7,73.158065,8.3768021,09:45:20 16 Feb 2021,https://d25d2506sfb94s.cloudfront.net/cumulus_uploads/document/79zfxkws33/econTabReport.pdf
@@ -1498,6 +1517,19 @@ Trump,2/16/2021,R,1/13/2021,1/13/2021,Data for Progress,B-,377,a,.60085234,.4895
 Trump,2/16/2021,R,1/12/2021,1/18/2021,UCLA Nationscape,"",2300,a,.76163119,.6684721,"","",73,21,76.496814,18.163239,09:45:20 16 Feb 2021,https://www.voterstudygroup.org/covid-19-updates
 Trump,2/16/2021,R,1/16/2021,1/19/2021,American Research Group,B,299,a,.55089584,.55089584,"","",59,35,59.88633,35.46348,09:45:20 16 Feb 2021,https://americanresearchgroup.com/economy/
 Trump,2/16/2021,R,1/16/2021,1/19/2021,YouGov,B,293,a,.41392322,.41392322,"","",80,16,79.158065,17.376802,09:45:20 16 Feb 2021,https://docs.cdn.yougov.com/4k61xul7y7/econTabReport.pdf
+Biden,2/16/2021,all,1/21/2021,1/22/2021,Harris Insights & Analytics,C,941,rv,.7950506,.24667741,"","",69,31,66.022435,29.587663,09:45:20 16 Feb 2021,https://thehill.com/hilltv/what-americas-thinking/535719-what-americas-thinking-january-22-2021
+Biden,2/16/2021,all,1/20/2021,1/26/2021,Echelon Insights,"",1006,rv,.84046855,.31870658,"","",59,23,59.27801,24.23557,09:45:20 16 Feb 2021,https://echeloninsights.com/in-the-news/january-omnibus-biden-administration/
+Biden,2/16/2021,all,1/22/2021,1/23/2021,Ipsos,B-,504,a,.673053,.24347796,"","",69,29,66.036847,28.489628,09:45:20 16 Feb 2021,https://www.ipsos.com/sites/default/files/ct/news/documents/2021-01/topline-abc-news-biden-unity-012421.pdf
+Biden,2/16/2021,all,1/24/2021,1/26/2021,YouGov,B,1500,a,.86402989,.36299128,"","",52,27,55.32121,26.40697,09:45:20 16 Feb 2021,https://docs.cdn.yougov.com/ld46rgtdlz/econTabReport.pdf
+Biden,2/16/2021,all,1/27/2021,1/29/2021,IBD/TIPP,A/B,1261,a,2.1061854,1.1832318,"","",56,21,56.929745,23.292071,09:45:20 16 Feb 2021,https://www.investors.com/politics/joe-biden-job-approval-enjoys-honeymoon-vs-donald-trump-ibd-tipp-poll/
+Biden,2/16/2021,all,1/28/2021,2/1/2021,Quinnipiac University,B+,1075,a,1.6056992,1.0193366,"","",61,29,60.278837,28.928517,09:45:20 16 Feb 2021,https://poll.qu.edu/national/release-detail?ReleaseID=3688
+Biden,2/16/2021,all,1/29/2021,2/1/2021,Morning Consult,B/C,1986,rv,1.1918752,.80015555,"","",61,30,60.15976,29.687628,09:45:20 16 Feb 2021,https://assets.morningconsult.com/wp-uploads/2021/02/03074817/2101110_crosstabs_POLITICO_RVs_v1.pdf
+Biden,2/16/2021,all,1/31/2021,2/2/2021,YouGov,B,1500,a,.7519645,.52567043,"","",52,32,55.32121,31.40697,09:45:20 16 Feb 2021,https://docs.cdn.yougov.com/460mactkmh/econTabReport.pdf
+Biden,2/16/2021,all,2/2/2021,2/2/2021,Data for Progress,B-,1163,a,1.2240655,.91116608,"","",55.65,36.15,56.519265,34.121873,09:45:20 16 Feb 2021,https://docs.google.com/spreadsheets/d/1dmzc8DpmtpppErDUVQWbqO9WofnPnccC4fQz2vEWDww/edit#gid=0
+Biden,2/16/2021,all,2/5/2021,2/6/2021,Ipsos,B-,508,a,.67349215,.59787099,"","",67,32,64.036847,31.489628,09:45:20 16 Feb 2021,https://www.ipsos.com/sites/default/files/ct/news/documents/2021-02/topline-abc-news-coronavirus-aid-package-020721.pdf
+Biden,2/16/2021,all,2/5/2021,2/7/2021,YouGov,B,1000,a,.51174541,.45372782,"","",52,34,55.32121,33.40697,09:45:20 16 Feb 2021,https://big.assets.huffingtonpost.com/athena/files/2021/02/11/6025c47bc5b6741597e0e0f2.pdf
+Biden,2/16/2021,all,2/6/2021,2/9/2021,YouGov,B,1500,a,.798828,.76839096,"","",51,32,54.32121,31.40697,09:45:20 16 Feb 2021,https://docs.cdn.yougov.com/rqqxdo2ujy/econTabReport.pdf
+Biden,2/16/2021,all,2/8/2021,2/9/2021,Harris Insights & Analytics,C,938,rv,.79341252,.79341252,"","",65,35,62.022435,33.587663,09:45:20 16 Feb 2021,https://thehill.com/hilltv/what-americas-thinking/538657-poll-bidens-job-approval-steady-at-60-percent
 Trump,2/16/2021,all,2/2/2020,2/4/2020,YouGov,B,1500,a,.78553185,0,"","",42,29,41.889985,31.371749,09:45:25 16 Feb 2021,https://d25d2506sfb94s.cloudfront.net/cumulus_uploads/document/73jqd6u5mv/econTabReport.pdf
 Trump,2/16/2021,all,2/7/2020,2/9/2020,Morning Consult,B/C,2200,a,.76800413,0,"","",57,22,57.868158,23.51915,09:45:25 16 Feb 2021,https://morningconsult.com/wp-content/uploads/2020/02/200214_crosstabs_CORONAVIRUS_Adults_v4_JB.pdf
 Trump,2/16/2021,all,2/9/2020,2/11/2020,YouGov,B,1500,a,.62791764,0,"","",39,28,38.889985,30.371749,09:45:25 16 Feb 2021,https://d25d2506sfb94s.cloudfront.net/cumulus_uploads/document/79zfxkws33/econTabReport.pdf
@@ -2137,3 +2169,4 @@ Trump,2/16/2021,all,1/13/2021,1/13/2021,Data for Progress,B-,946,a,1.0289053,.83
 Trump,2/16/2021,all,1/12/2021,1/18/2021,UCLA Nationscape,"",8000,a,.85914672,.75281224,"","",42,50,41.714299,52.076098,09:45:25 16 Feb 2021,https://www.voterstudygroup.org/covid-19-updates
 Trump,2/16/2021,all,1/16/2021,1/19/2021,YouGov,B,1500,a,.90635882,.90635882,"","",40,53,39.889985,55.371749,09:45:25 16 Feb 2021,https://docs.cdn.yougov.com/4k61xul7y7/econTabReport.pdf
 Trump,2/16/2021,all,1/16/2021,1/19/2021,American Research Group,B,1100,a,1.332507,1.332507,"","",29,68,31.690493,66.746836,09:45:25 16 Feb 2021,https://americanresearchgroup.com/economy/
+Biden,2/16/2021,D,1/24/2021,1/26/2021,YouGov,B,477,a,.54962176,.23598234,"","",84,3,84.675477,3.2223092,09:45:09 16 Feb 2021,https://docs.cdn.yougov.com/ld46rgtdlz/econTabReport.pdf
