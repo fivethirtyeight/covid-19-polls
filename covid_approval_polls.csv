@@ -2274,3 +2274,7 @@ start_date,end_date,pollster,sponsor,sample_size,population,party,subject,tracki
 2021-02-12,2021-02-15,Morning Consult,Politico,647,rv,R,Biden,FALSE,Do you approve or disapprove of how President Biden is handling each of the following? Coronavirus,30,63,politico.com/f/?id=00000177-abaf-d644-a377-efbf5b3e0000
 2021-02-12,2021-02-15,Morning Consult,Politico,800,rv,D,Biden,FALSE,Do you approve or disapprove of how President Biden is handling each of the following? Coronavirus,88,6,politico.com/f/?id=00000177-abaf-d644-a377-efbf5b3e0000
 2021-02-12,2021-02-15,Morning Consult,Politico,541,rv,I,Biden,FALSE,Do you approve or disapprove of how President Biden is handling each of the following? Coronavirus,55,31,politico.com/f/?id=00000177-abaf-d644-a377-efbf5b3e0000
+2021-02-13,2021-02-16,YouGov,Economist,1500,a,all,Biden,FALSE,Do you approve or disapprove of the way Joe Biden is handling COVID-19?,53,32,https://docs.cdn.yougov.com/3at75tb28w/econTabReport.pdf
+2021-02-13,2021-02-16,YouGov,Economist,374,a,R,Biden,FALSE,Do you approve or disapprove of the way Joe Biden is handling COVID-19?,17,67,https://docs.cdn.yougov.com/3at75tb28w/econTabReport.pdf
+2021-02-13,2021-02-16,YouGov,Economist,517,a,D,Biden,FALSE,Do you approve or disapprove of the way Joe Biden is handling COVID-19?,91,5,https://docs.cdn.yougov.com/3at75tb28w/econTabReport.pdf
+2021-02-13,2021-02-16,YouGov,Economist,445,a,I,Biden,FALSE,Do you approve or disapprove of the way Joe Biden is handling COVID-19?,51,35,https://docs.cdn.yougov.com/3at75tb28w/econTabReport.pdf
