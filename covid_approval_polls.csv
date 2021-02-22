@@ -2287,3 +2287,15 @@ start_date,end_date,pollster,sponsor,sample_size,population,party,subject,tracki
 2021-02-12,2021-02-15,YouGov,HuffPost,246,a,R,Biden,FALSE,Do you approve or disapprove of the way President Joe Biden is handling issues related to the coronavirus?,18,67,https://big.assets.huffingtonpost.com/athena/files/2021/02/19/60303c7cc5b66dfc101ead5e.pdf
 2021-02-12,2021-02-15,YouGov,HuffPost,332,a,D,Biden,FALSE,Do you approve or disapprove of the way President Joe Biden is handling issues related to the coronavirus?,86,4,https://big.assets.huffingtonpost.com/athena/files/2021/02/19/60303c7cc5b66dfc101ead5e.pdf
 2021-02-12,2021-02-15,YouGov,HuffPost,415,a,I,Biden,FALSE,Do you approve or disapprove of the way President Joe Biden is handling issues related to the coronavirus?,44,35,https://big.assets.huffingtonpost.com/athena/files/2021/02/19/60303c7cc5b66dfc101ead5e.pdf
+2021-02-17,2021-02-20,American Research Group,"",1100,a,all,Biden,FALSE,"Do you approve or disapprove of the way Joe Biden is handling the coronavirus outbreak?
+
+",62,29,https://americanresearchgroup.com/economy/
+2021-02-17,2021-02-20,American Research Group,"",277,a,R,Biden,FALSE,"Do you approve or disapprove of the way Joe Biden is handling the coronavirus outbreak?
+
+",19,67,https://americanresearchgroup.com/economy/
+2021-02-17,2021-02-20,American Research Group,"",365,a,D,Biden,FALSE,"Do you approve or disapprove of the way Joe Biden is handling the coronavirus outbreak?
+
+",98,1,https://americanresearchgroup.com/economy/
+2021-02-17,2021-02-20,American Research Group,"",348,a,I,Biden,FALSE,"Do you approve or disapprove of the way Joe Biden is handling the coronavirus outbreak?
+
+",60,26,https://americanresearchgroup.com/economy/
