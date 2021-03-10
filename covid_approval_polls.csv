@@ -2352,3 +2352,7 @@ start_date,end_date,pollster,sponsor,sample_size,population,party,subject,tracki
 2021-03-03,2021-03-08,SSRS,CNN,242.16,a,R,Biden,FALSE,Do you approve or disapprove of the way Joe Biden is handling The coronavirus pandemic?,22,71,http://cdn.cnn.com/cnn/2021/images/03/10/biden.economic.relief.bill.poll.pdf
 2021-03-03,2021-03-08,SSRS,CNN,302.7,a,D,Biden,FALSE,Do you approve or disapprove of the way Joe Biden is handling The coronavirus pandemic?,96,4,http://cdn.cnn.com/cnn/2021/images/03/10/biden.economic.relief.bill.poll.pdf
 2021-03-03,2021-03-08,SSRS,CNN,454.05,a,I,Biden,FALSE,Do you approve or disapprove of the way Joe Biden is handling The coronavirus pandemic?,56,37,http://cdn.cnn.com/cnn/2021/images/03/10/biden.economic.relief.bill.poll.pdf
+2021-03-06,2021-03-09,YouGov,Economist,1500,a,all,Biden,FALSE,Do you approve or disapprove of the way Joe Biden is handling COVID-19?,51,36,https://docs.cdn.yougov.com/pzzc3d0izz/econTabReport.pdf
+2021-03-06,2021-03-09,YouGov,Economist,398,a,R,Biden,FALSE,Do you approve or disapprove of the way Joe Biden is handling COVID-19?,19,71,https://docs.cdn.yougov.com/pzzc3d0izz/econTabReport.pdf
+2021-03-06,2021-03-09,YouGov,Economist,485,a,D,Biden,FALSE,Do you approve or disapprove of the way Joe Biden is handling COVID-19?,82,10,https://docs.cdn.yougov.com/pzzc3d0izz/econTabReport.pdf
+2021-03-06,2021-03-09,YouGov,Economist,455,a,I,Biden,FALSE,Do you approve or disapprove of the way Joe Biden is handling COVID-19?,49,39,https://docs.cdn.yougov.com/pzzc3d0izz/econTabReport.pdf
