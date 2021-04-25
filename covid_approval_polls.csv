@@ -2491,3 +2491,7 @@ start_date,end_date,pollster,sponsor,sample_size,population,party,subject,tracki
 2021-04-17,2021-04-20,American Research Group,"",1100,a,all,Biden,FALSE,"Do you approve or disapprove of the way Joe Biden is handling the coronavirus outbreak?
 
 ",64,31,https://americanresearchgroup.com/economy/
+2021-04-18,2021-04-21,Fox News,"",1002,rv,all,Biden,FALSE,Do you approve or disapprove of the way Joe Biden is handling the following issues? The coronavirus pandemic,58,34,https://static.foxnews.com/foxnews.com/content/uploads/2021/04/Fox_April-18-21-2021_National_Topline_April-25-Release.pdf
+2021-04-18,2021-04-21,Fox News,"",400.8,rv,R,Biden,FALSE,Do you approve or disapprove of the way Joe Biden is handling the following issues? The coronavirus pandemic,24,64,https://static.foxnews.com/foxnews.com/content/uploads/2021/04/Fox_April-18-21-2021_National_Topline_April-25-Release.pdf
+2021-04-18,2021-04-21,Fox News,"",430.86,rv,D,Biden,FALSE,Do you approve or disapprove of the way Joe Biden is handling the following issues? The coronavirus pandemic,94,4,https://static.foxnews.com/foxnews.com/content/uploads/2021/04/Fox_April-18-21-2021_National_Topline_April-25-Release.pdf
+2021-04-18,2021-04-21,Fox News,"",170.34,rv,I,Biden,FALSE,Do you approve or disapprove of the way Joe Biden is handling the following issues? The coronavirus pandemic,50,36,https://static.foxnews.com/foxnews.com/content/uploads/2021/04/Fox_April-18-21-2021_National_Topline_April-25-Release.pdf
