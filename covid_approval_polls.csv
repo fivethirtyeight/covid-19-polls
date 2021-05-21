@@ -2579,3 +2579,21 @@ start_date,end_date,pollster,sponsor,sample_size,population,party,subject,tracki
 2021-05-14,2021-05-17,Echelon Insights,"",399,rv,R,Biden,FALSE,Do you approve or disapprove of how Joe Biden is handling the spread of the coronavirus in the United States?,31,63,https://echeloninsights.com/in-the-news/may-omnibus-political/
 2021-05-14,2021-05-17,Echelon Insights,"",473,rv,D,Biden,FALSE,Do you approve or disapprove of how Joe Biden is handling the spread of the coronavirus in the United States?,92,5,https://echeloninsights.com/in-the-news/may-omnibus-political/
 2021-05-14,2021-05-17,Echelon Insights,"",234,rv,I,Biden,FALSE,Do you approve or disapprove of how Joe Biden is handling the spread of the coronavirus in the United States?,63,29,https://echeloninsights.com/in-the-news/may-omnibus-political/
+2021-05-17,2021-05-20,American Research Group,"",1100,a,all,Biden,FALSE,"Do you approve or disapprove of the way Joe Biden is handling the coronavirus outbreak?
+
+",64,32,https://americanresearchgroup.com/economy/
+2021-05-17,2021-05-20,American Research Group,"",987,rv,all,Biden,FALSE,"Do you approve or disapprove of the way Joe Biden is handling the coronavirus outbreak?
+
+",64,32,https://americanresearchgroup.com/economy/
+2021-05-17,2021-05-20,American Research Group,"",279,rv,R,Biden,FALSE,"Do you approve or disapprove of the way Joe Biden is handling the coronavirus outbreak?
+
+",21,70,https://americanresearchgroup.com/economy/
+2021-05-17,2021-05-20,American Research Group,"",361,rv,D,Biden,FALSE,"Do you approve or disapprove of the way Joe Biden is handling the coronavirus outbreak?
+
+",97,2,https://americanresearchgroup.com/economy/
+2021-05-17,2021-05-20,American Research Group,"",347,rv,I,Biden,FALSE,"Do you approve or disapprove of the way Joe Biden is handling the coronavirus outbreak?
+
+",58,34,https://americanresearchgroup.com/economy/
+2021-05-15,2021-05-15,Data for Progress,"",1613,a,all,Biden,FALSE,"For each person or group, say whether you approve or disapprove of the way they are handling the coronavirus pandemic: President Joe Biden",59.08,35.66,https://docs.google.com/spreadsheets/d/1AbRKlj8bZIa5hNA8C1PnF8AzIY04MBKGwUCIPatqL_c/edit#gid=0
+2021-05-15,2021-05-15,Data for Progress,"",609,a,R,Biden,FALSE,"For each person or group, say whether you approve or disapprove of the way they are handling the coronavirus pandemic: President Joe Biden",29.09,67.56,https://docs.google.com/spreadsheets/d/1AbRKlj8bZIa5hNA8C1PnF8AzIY04MBKGwUCIPatqL_c/edit#gid=0
+2021-05-15,2021-05-15,Data for Progress,"",746,a,D,Biden,FALSE,"For each person or group, say whether you approve or disapprove of the way they are handling the coronavirus pandemic: President Joe Biden",91.45,6.88,https://docs.google.com/spreadsheets/d/1AbRKlj8bZIa5hNA8C1PnF8AzIY04MBKGwUCIPatqL_c/edit#gid=0
