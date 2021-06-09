@@ -2629,3 +2629,7 @@ start_date,end_date,pollster,sponsor,sample_size,population,party,subject,tracki
 2021-05-29,2021-06-01,YouGov,Economist,395,a,R,Biden,FALSE,Do you approve or disapprove of the way Joe Biden is handling COVID-19?,21,62,https://docs.cdn.yougov.com/4876sp4niu/econTabReport.pdf
 2021-05-29,2021-06-01,YouGov,Economist,531,a,D,Biden,FALSE,Do you approve or disapprove of the way Joe Biden is handling COVID-19?,85,10,https://docs.cdn.yougov.com/4876sp4niu/econTabReport.pdf
 2021-05-29,2021-06-01,YouGov,Economist,412,a,I,Biden,FALSE,Do you approve or disapprove of the way Joe Biden is handling COVID-19?,50,41,https://docs.cdn.yougov.com/4876sp4niu/econTabReport.pdf
+2021-06-06,2021-06-08,YouGov,Economist,1500,a,all,Biden,FALSE,Do you approve or disapprove of the way Joe Biden is handling COVID-19?,54,35,https://docs.cdn.yougov.com/y3gecetbxy/econTabReport.pdf
+2021-06-06,2021-06-08,YouGov,Economist,404,a,R,Biden,FALSE,Do you approve or disapprove of the way Joe Biden is handling COVID-19?,27,68,https://docs.cdn.yougov.com/y3gecetbxy/econTabReport.pdf
+2021-06-06,2021-06-08,YouGov,Economist,516,a,D,Biden,FALSE,Do you approve or disapprove of the way Joe Biden is handling COVID-19?,87,6,https://docs.cdn.yougov.com/y3gecetbxy/econTabReport.pdf
+2021-06-06,2021-06-08,YouGov,Economist,423,a,I,Biden,FALSE,Do you approve or disapprove of the way Joe Biden is handling COVID-19?,46,41,https://docs.cdn.yougov.com/y3gecetbxy/econTabReport.pdf
