@@ -2731,3 +2731,15 @@ start_date,end_date,pollster,sponsor,sample_size,population,party,subject,tracki
 2021-07-16,2021-07-18,Morning Consult,Politico,674,rv,R,Biden,FALSE,Do you approve or disapprove of how President Biden is handling each of the following? Coronavirus,26,69,https://assets.morningconsult.com/wp-uploads/2021/07/21050659/2107068_crosstabs_POLITICO_RVs_v1_LM.pdf
 2021-07-16,2021-07-18,Morning Consult,Politico,766,rv,D,Biden,FALSE,Do you approve or disapprove of how President Biden is handling each of the following? Coronavirus,86,10,https://assets.morningconsult.com/wp-uploads/2021/07/21050659/2107068_crosstabs_POLITICO_RVs_v1_LM.pdf
 2021-07-16,2021-07-18,Morning Consult,Politico,557,rv,I,Biden,FALSE,Do you approve or disapprove of how President Biden is handling each of the following? Coronavirus,52,40,https://assets.morningconsult.com/wp-uploads/2021/07/21050659/2107068_crosstabs_POLITICO_RVs_v1_LM.pdf
+2021-07-17,2021-07-20,American Research Group,"",1100,a,all,Biden,FALSE,"Do you approve or disapprove of the way Joe Biden is handling the coronavirus outbreak?
+
+",60,35,https://americanresearchgroup.com/economy/
+2021-07-17,2021-07-20,American Research Group,"",282,a,R,Biden,FALSE,"Do you approve or disapprove of the way Joe Biden is handling the coronavirus outbreak?
+
+",22,70,https://americanresearchgroup.com/economy/
+2021-07-17,2021-07-20,American Research Group,"",360,a,D,Biden,FALSE,"Do you approve or disapprove of the way Joe Biden is handling the coronavirus outbreak?
+
+",96,2,https://americanresearchgroup.com/economy/
+2021-07-17,2021-07-20,American Research Group,"",349,a,I,Biden,FALSE,"Do you approve or disapprove of the way Joe Biden is handling the coronavirus outbreak?
+
+",57,38,https://americanresearchgroup.com/economy/
