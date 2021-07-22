@@ -2747,3 +2747,4 @@ start_date,end_date,pollster,sponsor,sample_size,population,party,subject,tracki
 2021-07-17,2021-07-20,YouGov,Economist,371,a,R,Biden,FALSE,Do you approve or disapprove of the way Joe Biden is handling COVID-19?,19,74,https://docs.cdn.yougov.com/1aaz80mjhy/econTabReport.pdf
 2021-07-17,2021-07-20,YouGov,Economist,516,a,D,Biden,FALSE,Do you approve or disapprove of the way Joe Biden is handling COVID-19?,88,6,https://docs.cdn.yougov.com/1aaz80mjhy/econTabReport.pdf
 2021-07-17,2021-07-20,YouGov,Economist,445,a,I,Biden,FALSE,Do you approve or disapprove of the way Joe Biden is handling COVID-19?,46,40,https://docs.cdn.yougov.com/1aaz80mjhy/econTabReport.pdf
+2021-07-15,2021-07-18,Morning Consult,"",1990,rv,all,Biden,FALSE,Do you approve or disapprove of the way Joe Biden is handling the coronavirus outbreak?,55,40,https://morningconsult.com/views-on-the-pandemic/
