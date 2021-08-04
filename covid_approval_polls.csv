@@ -2782,3 +2782,7 @@ start_date,end_date,pollster,sponsor,sample_size,population,party,subject,tracki
 2021-07-31,2021-08-03,YouGov,Economist,395,a,R,Biden,FALSE,Do you approve or disapprove of the way Joe Biden is handling COVID-19?,16,76,https://docs.cdn.yougov.com/8w7calyx30/econTabReport.pdf
 2021-07-31,2021-08-03,YouGov,Economist,510,a,D,Biden,FALSE,Do you approve or disapprove of the way Joe Biden is handling COVID-19?,87,10,https://docs.cdn.yougov.com/8w7calyx30/econTabReport.pdf
 2021-07-31,2021-08-03,YouGov,Economist,442,a,I,Biden,FALSE,Do you approve or disapprove of the way Joe Biden is handling COVID-19?,46,41,https://docs.cdn.yougov.com/8w7calyx30/econTabReport.pdf
+2021-07-27,2021-08-02,Quinnipiac,"",1290,a,all,Biden,FALSE,Do you approve or disapprove of the way Joe Biden is handling - the response to the coronavirus?,53,40,https://poll.qu.edu/poll-release?releaseid=3814
+2021-07-27,2021-08-02,Quinnipiac,"",296.7,a,R,Biden,FALSE,Do you approve or disapprove of the way Joe Biden is handling - the response to the coronavirus?,14,76,https://poll.qu.edu/poll-release?releaseid=3814
+2021-07-27,2021-08-02,Quinnipiac,"",348.3,a,D,Biden,FALSE,Do you approve or disapprove of the way Joe Biden is handling - the response to the coronavirus?,92,7,https://poll.qu.edu/poll-release?releaseid=3814
+2021-07-27,2021-08-02,Quinnipiac,"",464.4,a,I,Biden,FALSE,Do you approve or disapprove of the way Joe Biden is handling - the response to the coronavirus?,54,39,https://poll.qu.edu/poll-release?releaseid=3814
