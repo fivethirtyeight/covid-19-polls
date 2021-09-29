@@ -2966,3 +2966,7 @@ start_date,end_date,pollster,sponsor,sample_size,population,party,subject,tracki
 2021-09-17,2021-09-23,Echelon Insights,"",421,rv,D,Biden,FALSE,Do you approve or disapprove of how Joe Biden is handling the spread of the coronavirus in the United States?,83,12,
 2021-09-17,2021-09-23,Echelon Insights,"",192,rv,I,Biden,FALSE,Do you approve or disapprove of how Joe Biden is handling the spread of the coronavirus in the United States?,51,46,
 2021-09-24,2021-09-28,Ipsos,ABC News,1101,a,all,Biden,FALSE,Do you approve or disapprove of the way Joe Biden is handling the response to the coronavirus (COVID-19)?,57,42,
+2021-09-26,2021-09-28,YouGov,Economist,1500,a,all,Biden,FALSE,Do you approve or disapprove of the way Joe Biden is handling COVID-19?,43,46,
+2021-09-26,2021-09-28,YouGov,Economist,358,a,R,Biden,FALSE,Do you approve or disapprove of the way Joe Biden is handling COVID-19?,13,81,
+2021-09-26,2021-09-28,YouGov,Economist,493,a,D,Biden,FALSE,Do you approve or disapprove of the way Joe Biden is handling COVID-19?,81,14,
+2021-09-26,2021-09-28,YouGov,Economist,475,a,I,Biden,FALSE,Do you approve or disapprove of the way Joe Biden is handling COVID-19?,35,54,
