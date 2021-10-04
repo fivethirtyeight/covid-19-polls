@@ -2974,3 +2974,4 @@ start_date,end_date,pollster,sponsor,sample_size,population,party,subject,tracki
 2021-09-23,2021-09-27,AP-NORC,"",395.64,a,R,Biden,FALSE,"Overall, do you approve or disapprove of the way Joe Biden is handling the coronavirus pandemic?",23,77,
 2021-09-23,2021-09-27,AP-NORC,"",505.54,a,D,Biden,FALSE,"Overall, do you approve or disapprove of the way Joe Biden is handling the coronavirus pandemic?",86,13,
 2021-09-23,2021-09-27,AP-NORC,"",208.81,a,I,Biden,FALSE,"Overall, do you approve or disapprove of the way Joe Biden is handling the coronavirus pandemic?",50,48,
+2021-09-29,2021-10-02,IBD/TIPP,"",1308,a,all,Biden,FALSE,How would you grade his performance:  HANDLING THE CORONAVIRUS SITUATION,45,32,
