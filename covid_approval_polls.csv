@@ -2980,3 +2980,7 @@ start_date,end_date,pollster,sponsor,sample_size,population,party,subject,tracki
 2021-09-26,2021-09-28,YouGov,Economist,475,a,I,Biden,FALSE,Do you approve or disapprove of the way Joe Biden is handling COVID-19?,35,54,
 2021-09-27,2021-09-28,HarrisX,Hill.TV,935,rv,all,Biden,FALSE,Do you approve or disapprove of the job President Joe Biden is doing on handling the coronavirus outbreak?,52,37,
 2021-09-29,2021-10-02,IBD/TIPP,"",1308,a,all,Biden,FALSE,How would you grade his performance:  HANDLING THE CORONAVIRUS SITUATION,45,32,
+2021-10-02,2021-10-04,Morning Consult,Politico,1998,rv,all,Biden,FALSE,Do you approve or disapprove of how President Biden is handling each of the following? Coronavirus,49,46,
+2021-10-02,2021-10-04,Morning Consult,Politico,694,rv,R,Biden,FALSE,Do you approve or disapprove of how President Biden is handling each of the following? Coronavirus,19,79,
+2021-10-02,2021-10-04,Morning Consult,Politico,745,rv,D,Biden,FALSE,Do you approve or disapprove of how President Biden is handling each of the following? Coronavirus,82,13,
+2021-10-02,2021-10-04,Morning Consult,Politico,559,rv,I,Biden,FALSE,Do you approve or disapprove of how President Biden is handling each of the following? Coronavirus,44,47,
