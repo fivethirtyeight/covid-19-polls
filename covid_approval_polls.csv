@@ -2984,3 +2984,7 @@ start_date,end_date,pollster,sponsor,sample_size,population,party,subject,tracki
 2021-10-02,2021-10-04,Morning Consult,Politico,694,rv,R,Biden,FALSE,Do you approve or disapprove of how President Biden is handling each of the following? Coronavirus,19,79,
 2021-10-02,2021-10-04,Morning Consult,Politico,745,rv,D,Biden,FALSE,Do you approve or disapprove of how President Biden is handling each of the following? Coronavirus,82,13,
 2021-10-02,2021-10-04,Morning Consult,Politico,559,rv,I,Biden,FALSE,Do you approve or disapprove of how President Biden is handling each of the following? Coronavirus,44,47,
+2021-10-03,2021-10-05,YouGov,Economist,1500,a,all,Biden,FALSE,Do you approve or disapprove of the way Joe Biden is handling COVID-19?,45,45,
+2021-10-03,2021-10-05,YouGov,Economist,391,a,R,Biden,FALSE,Do you approve or disapprove of the way Joe Biden is handling COVID-19?,13,85,
+2021-10-03,2021-10-05,YouGov,Economist,504,a,D,Biden,FALSE,Do you approve or disapprove of the way Joe Biden is handling COVID-19?,85,11,
+2021-10-03,2021-10-05,YouGov,Economist,444,a,I,Biden,FALSE,Do you approve or disapprove of the way Joe Biden is handling COVID-19?,40,51,
