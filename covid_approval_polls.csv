@@ -2997,3 +2997,7 @@ start_date,end_date,pollster,sponsor,sample_size,population,party,subject,tracki
 2021-10-05,2021-10-05,Redfield & Wilton Strategies,"",601,rv,D,Biden,FALSE,"To what extent, if at all, do you approve or disapprove of the Joe Biden administration’s performance in the following policy areas:  The Coronavirus Pandemic?",77,6,
 2021-10-05,2021-10-05,Redfield & Wilton Strategies,"",328,rv,I,Biden,FALSE,"To what extent, if at all, do you approve or disapprove of the Joe Biden administration’s performance in the following policy areas:  The Coronavirus Pandemic?",37,31,
 2021-08-26,2021-09-27,PureSpectrum,"Northeastern,Harvard,Rutgers,Northwestern",21079,a,all,Biden,FALSE,Do you approve or disapprove of the way President Biden is handling the coronavirus (COVID-19) outbreak?,49,31,
+2021-10-01,2021-10-04,YouGov,Yahoo News,1640,a,all,Biden,FALSE,Do you approve or disapprove of the way President Biden is handling each of the following issues? Coronavirus,47,44,
+2021-10-01,2021-10-04,YouGov,Yahoo News,407,a,R,Biden,FALSE,Do you approve or disapprove of the way President Biden is handling each of the following issues? Coronavirus,19,75,
+2021-10-01,2021-10-04,YouGov,Yahoo News,562,a,D,Biden,FALSE,Do you approve or disapprove of the way President Biden is handling each of the following issues? Coronavirus,81,16,
+2021-10-01,2021-10-04,YouGov,Yahoo News,493,a,I,Biden,FALSE,Do you approve or disapprove of the way President Biden is handling each of the following issues? Coronavirus,42,50,
