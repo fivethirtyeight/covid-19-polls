@@ -3013,3 +3013,7 @@ start_date,end_date,pollster,sponsor,sample_size,population,party,subject,tracki
 2021-10-11,2021-10-13,RMG Research,"",396,rv,R,Biden,FALSE,Please let me know if you approve or disapprove of the way President Biden is handling each of the following issues: COVID,25,74,
 2021-10-11,2021-10-13,RMG Research,"",432,rv,D,Biden,FALSE,Please let me know if you approve or disapprove of the way President Biden is handling each of the following issues: COVID,87,10,
 2021-10-11,2021-10-13,RMG Research,"",372,rv,I,Biden,FALSE,Please let me know if you approve or disapprove of the way President Biden is handling each of the following issues: COVID,31,45,
+2021-10-13,2021-10-17,Selzer,Grinnell College,915,a,all,Biden,FALSE,Do you approve or disapprove of the way Joe Biden is handling the COVID-19 pandemic?,46,44,
+2021-10-13,2021-10-17,Selzer,Grinnell College,310,a,R,Biden,FALSE,Do you approve or disapprove of the way Joe Biden is handling the COVID-19 pandemic?,10,80,
+2021-10-13,2021-10-17,Selzer,Grinnell College,317,a,D,Biden,FALSE,Do you approve or disapprove of the way Joe Biden is handling the COVID-19 pandemic?,88,8,
+2021-10-13,2021-10-17,Selzer,Grinnell College,232,a,I,Biden,FALSE,Do you approve or disapprove of the way Joe Biden is handling the COVID-19 pandemic?,38,46,
