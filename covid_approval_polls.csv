@@ -3017,3 +3017,7 @@ start_date,end_date,pollster,sponsor,sample_size,population,party,subject,tracki
 2021-10-13,2021-10-17,Selzer,Grinnell College,310,a,R,Biden,FALSE,Do you approve or disapprove of the way Joe Biden is handling the COVID-19 pandemic?,10,80,
 2021-10-13,2021-10-17,Selzer,Grinnell College,317,a,D,Biden,FALSE,Do you approve or disapprove of the way Joe Biden is handling the COVID-19 pandemic?,88,8,
 2021-10-13,2021-10-17,Selzer,Grinnell College,232,a,I,Biden,FALSE,Do you approve or disapprove of the way Joe Biden is handling the COVID-19 pandemic?,38,46,
+2021-10-16,2021-10-18,Morning Consult,Politico,1998,rv,all,Biden,FALSE,Do you approve or disapprove of how President Biden is handling each of the following? Coronavirus,49,45,
+2021-10-16,2021-10-18,Morning Consult,Politico,693,rv,R,Biden,FALSE,Do you approve or disapprove of how President Biden is handling each of the following? Coronavirus,19,78,
+2021-10-16,2021-10-18,Morning Consult,Politico,777,rv,D,Biden,FALSE,Do you approve or disapprove of how President Biden is handling each of the following? Coronavirus,82,14,
+2021-10-16,2021-10-18,Morning Consult,Politico,528,rv,I,Biden,FALSE,Do you approve or disapprove of how President Biden is handling each of the following? Coronavirus,42,48,
