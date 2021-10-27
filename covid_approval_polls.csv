@@ -3046,3 +3046,7 @@ start_date,end_date,pollster,sponsor,sample_size,population,party,subject,tracki
 2021-10-19,2021-01-21,YouGov,Yahoo News,458,a,R,Biden,FALSE,Do you approve or disapprove of the way President Biden is handling each of the following issues? Coronavirus,12,84,
 2021-10-19,2021-01-21,YouGov,Yahoo News,550,a,D,Biden,FALSE,Do you approve or disapprove of the way President Biden is handling each of the following issues? Coronavirus,83,10,
 2021-10-19,2021-01-21,YouGov,Yahoo News,503,a,I,Biden,FALSE,Do you approve or disapprove of the way President Biden is handling each of the following issues? Coronavirus,39,52,
+2021-10-24,2021-10-26,YouGov,Economist,1500,a,all,Biden,FALSE,Do you approve or disapprove of the way Joe Biden is handling COVID-19?,45,45,
+2021-10-24,2021-10-26,YouGov,Economist,392,a,R,Biden,FALSE,Do you approve or disapprove of the way Joe Biden is handling COVID-19?,16,80,
+2021-10-24,2021-10-26,YouGov,Economist,507,a,D,Biden,FALSE,Do you approve or disapprove of the way Joe Biden is handling COVID-19?,84,9,
+2021-10-24,2021-10-26,YouGov,Economist,424,a,I,Biden,FALSE,Do you approve or disapprove of the way Joe Biden is handling COVID-19?,39,51,
