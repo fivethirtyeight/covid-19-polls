@@ -3064,3 +3064,4 @@ start_date,end_date,pollster,sponsor,sample_size,population,party,subject,tracki
 2021-10-20,2021-10-23,HarrisX,Hill.TV,1010,rv,D,Biden,FALSE,Do you approve or disapprove of the job President Joe Biden is doing on handling the coronavirus outbreak?,77,9,
 2021-10-20,2021-10-23,HarrisX,Hill.TV,682,rv,I,Biden,FALSE,Do you approve or disapprove of the job President Joe Biden is doing on handling the coronavirus outbreak?,37,45,
 2021-10-23,2021-10-26,NBC,"",1000,a,all,Biden,FALSE,"Now, for each of the following please tell me if you approve or disapprove of President Biden's handling of each item. The coronavirus",51,47,
+2021-10-29,2021-10-30,Ipsos,ABC News,514,a,all,Biden,FALSE,Do you approve or disapprove of the way Joe Biden is handling the response to the coronavirus (COVID-19)?,56,44,
