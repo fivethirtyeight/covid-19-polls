@@ -3069,3 +3069,7 @@ start_date,end_date,pollster,sponsor,sample_size,population,party,subject,tracki
 2021-09-16,2021-09-29,Public Religion Research Institute,"",737,a,R,Biden,FALSE,Do you approve or disapprove of the job President Biden is doing handling the COVID-19 pandemic?,16,84,
 2021-09-16,2021-09-29,Public Religion Research Institute,"",813,a,D,Biden,FALSE,Do you approve or disapprove of the job President Biden is doing handling the COVID-19 pandemic?,90,10,
 2021-09-16,2021-09-29,Public Religion Research Institute,"",728,a,I,Biden,FALSE,Do you approve or disapprove of the job President Biden is doing handling the COVID-19 pandemic?,59,41,
+2021-10-30,2021-11-01,Morning Consult,Politico,1996,rv,all,Biden,FALSE,Do you approve or disapprove of how President Biden is handling each of the following? Coronavirus,49,44,
+2021-10-30,2021-11-01,Morning Consult,Politico,713,rv,R,Biden,FALSE,Do you approve or disapprove of how President Biden is handling each of the following? Coronavirus,21,74,
+2021-10-30,2021-11-01,Morning Consult,Politico,724,rv,D,Biden,FALSE,Do you approve or disapprove of how President Biden is handling each of the following? Coronavirus,80,16,
+2021-10-30,2021-11-01,Morning Consult,Politico,560,rv,I,Biden,FALSE,Do you approve or disapprove of how President Biden is handling each of the following? Coronavirus,45,45,
