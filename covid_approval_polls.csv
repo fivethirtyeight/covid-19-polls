@@ -3103,3 +3103,11 @@ start_date,end_date,pollster,sponsor,sample_size,population,party,subject,tracki
 2021-11-04,2021-11-08,YouGov,Yahoo News,398,a,R,Biden,FALSE,Do you approve or disapprove of the way President Biden is handling each of the following issues? Coronavirus,17,79,https://docs.cdn.yougov.com/8yndiqueok/20211108_yahoo_vaccine_tabs%20%282%29.pdf
 2021-11-04,2021-11-08,YouGov,Yahoo News,536,a,D,Biden,FALSE,Do you approve or disapprove of the way President Biden is handling each of the following issues? Coronavirus,84,11,https://docs.cdn.yougov.com/8yndiqueok/20211108_yahoo_vaccine_tabs%20%282%29.pdf
 2021-11-04,2021-11-08,YouGov,Yahoo News,528,a,I,Biden,FALSE,Do you approve or disapprove of the way President Biden is handling each of the following issues? Coronavirus,42,48,https://docs.cdn.yougov.com/8yndiqueok/20211108_yahoo_vaccine_tabs%20%282%29.pdf
+2021-11-07,2021-11-10,ABC,The Washington Post,1001,a,all,Biden,FALSE,"Do you approve or disapprove of the way Biden is handling the coronavirus pandemic?
+",47,49,https://www.washingtonpost.com/context/nov-7-10-2021-washington-post-abc-news-poll/160508a9-cea2-4433-92c8-6dc51838721e/?itid=lk_inline_manual_2
+2021-11-07,2021-11-10,ABC,The Washington Post,260.26,a,R,Biden,FALSE,"Do you approve or disapprove of the way Biden is handling the coronavirus pandemic?
+",19,79,https://www.washingtonpost.com/context/nov-7-10-2021-washington-post-abc-news-poll/160508a9-cea2-4433-92c8-6dc51838721e/?itid=lk_inline_manual_2
+2021-11-07,2021-11-10,ABC,The Washington Post,270.27,a,D,Biden,FALSE,"Do you approve or disapprove of the way Biden is handling the coronavirus pandemic?
+",84,15,https://www.washingtonpost.com/context/nov-7-10-2021-washington-post-abc-news-poll/160508a9-cea2-4433-92c8-6dc51838721e/?itid=lk_inline_manual_2
+2021-11-07,2021-11-10,ABC,The Washington Post,370.37,a,I,Biden,FALSE,"Do you approve or disapprove of the way Biden is handling the coronavirus pandemic?
+",44,52,https://www.washingtonpost.com/context/nov-7-10-2021-washington-post-abc-news-poll/160508a9-cea2-4433-92c8-6dc51838721e/?itid=lk_inline_manual_2
