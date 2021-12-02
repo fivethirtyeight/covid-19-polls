@@ -1,4 +1,6 @@
 subject,modeldate,party,very_estimate,somewhat_estimate,not_very_estimate,not_at_all_estimate,timestamp
+concern-economy,12/2/2021,all,49.041857,35.450926,10.346955,3.7443655,09:03:24  2 Dec 2021
+concern-infected,12/2/2021,all,24.525285,32.476266,26.226977,16.381556,09:03:27  2 Dec 2021
 concern-economy,12/1/2021,all,49.041857,35.450926,10.346955,3.7443655,13:08:24  1 Dec 2021
 concern-infected,12/1/2021,all,24.525285,32.476266,26.226977,16.381556,13:08:27  1 Dec 2021
 concern-economy,11/30/2021,all,49.041857,35.450926,10.346955,3.7443655,06:54:48 30 Nov 2021
