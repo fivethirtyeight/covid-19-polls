@@ -3200,3 +3200,7 @@ start_date,end_date,pollster,sponsor,sample_size,population,party,subject,tracki
 2021-12-12,2021-12-14,YouGov,Economist,368,a,R,Biden,FALSE,Do you approve or disapprove of the way Joe Biden is handling COVID-19?,13,81,https://docs.cdn.yougov.com/pnu6yfcz0j/econTabReport.pdf
 2021-12-12,2021-12-14,YouGov,Economist,518,a,D,Biden,FALSE,Do you approve or disapprove of the way Joe Biden is handling COVID-19?,83,12,https://docs.cdn.yougov.com/pnu6yfcz0j/econTabReport.pdf
 2021-12-12,2021-12-14,YouGov,Economist,455,a,I,Biden,FALSE,Do you approve or disapprove of the way Joe Biden is handling COVID-19?,37,54,https://docs.cdn.yougov.com/pnu6yfcz0j/econTabReport.pdf
+2021-12-08,2021-12-12,SSRS,CNN,1256,a,all,Biden,FALSE,Do you approve or disapprove of the way Joe Biden is handling The coronavirus pandemic?,54,45,https://s3.documentcloud.org/documents/21154783/biden-economy.pdf
+2021-12-08,2021-12-12,SSRS,CNN,351.68,a,R,Biden,FALSE,Do you approve or disapprove of the way Joe Biden is handling The coronavirus pandemic?,20,79,https://s3.documentcloud.org/documents/21154783/biden-economy.pdf
+2021-12-08,2021-12-12,SSRS,CNN,452.16,a,D,Biden,FALSE,Do you approve or disapprove of the way Joe Biden is handling The coronavirus pandemic?,84,15,https://s3.documentcloud.org/documents/21154783/biden-economy.pdf
+2021-12-08,2021-12-12,SSRS,CNN,452.16,a,I,Biden,FALSE,Do you approve or disapprove of the way Joe Biden is handling The coronavirus pandemic?,50,50,https://s3.documentcloud.org/documents/21154783/biden-economy.pdf
