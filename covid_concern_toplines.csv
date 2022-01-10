@@ -1,4 +1,7 @@
 subject,modeldate,party,very_estimate,somewhat_estimate,not_very_estimate,not_at_all_estimate,timestamp
+concern-infected,1/8/2022,all,24.49752,32.533456,26.25762,16.322401,08:08:21 10 Jan 2022
+concern-infected,1/7/2022,all,24.49752,32.533456,26.25762,16.322401,08:08:24 10 Jan 2022
+concern-infected,1/6/2022,all,24.49752,32.533456,26.25762,16.322401,08:08:27 10 Jan 2022
 concern-economy,1/5/2022,all,49.041857,35.450926,10.346955,3.7443655,09:17:26  5 Jan 2022
 concern-infected,1/5/2022,all,24.49752,32.533456,26.25762,16.322401,09:17:29  5 Jan 2022
 concern-economy,1/4/2022,all,49.041857,35.450926,10.346955,3.7443655,09:06:31  4 Jan 2022
