@@ -3285,3 +3285,11 @@ start_date,end_date,pollster,sponsor,sample_size,population,party,subject,tracki
 2022-01-04,2022-01-06,Data for Progress,"",1200,a,all,Biden,FALSE,"For each person or group, say whether you approve or disapprove of the way they are handling the coronavirus pandemic: President Joe Biden",44,50,https://www.dataforprogress.org/blog/2022/1/19/dfp-covid-19-response-tracking-poll
 2022-01-13,2022-01-18,Morning Consult,"",1161,a,all,Biden,FALSE,"Overall, do you approve or disapprove of the way Joe Biden is handling the coronavirus pandemic?",45,54,https://apnorc.org/wp-content/uploads/2022/01/jan2022_Biden_topline-1.pdf
 2022-01-14,2022-01-18,NBC,"",1000,a,all,Biden,FALSE,"Now, for each of the following please tell me if you approve or disapprove of President Biden's handling of each item. The coronavirus",44,53,https://www.documentcloud.org/documents/21182470-220027-survey-1-20-22-release
+2022-01-17,2022-01-20,American Research Group,"",1100,a,all,Biden,FALSE,"Do you approve or disapprove of the way Joe Biden is handling the coronavirus outbreak?
+",40,55,https://americanresearchgroup.com/economy/
+2022-01-17,2022-01-20,American Research Group,"",298,a,R,Biden,FALSE,"Do you approve or disapprove of the way Joe Biden is handling the coronavirus outbreak?
+",5,92,https://americanresearchgroup.com/economy/
+2022-01-17,2022-01-20,American Research Group,"",346,a,D,Biden,FALSE,"Do you approve or disapprove of the way Joe Biden is handling the coronavirus outbreak?
+",82,15,https://americanresearchgroup.com/economy/
+2022-01-17,2022-01-20,American Research Group,"",350,a,I,Biden,FALSE,"Do you approve or disapprove of the way Joe Biden is handling the coronavirus outbreak?
+",33,62,https://americanresearchgroup.com/economy/
