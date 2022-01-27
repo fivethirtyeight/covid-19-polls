@@ -3309,3 +3309,4 @@ start_date,end_date,pollster,sponsor,sample_size,population,party,subject,tracki
 2022-01-22,2022-01-25,YouGov,Economist,399,a,R,Biden,FALSE,Do you approve or disapprove of the way Joe Biden is handling COVID-19?,13,83,https://docs.cdn.yougov.com/w6rek2s6zg/econTabReport.pdf
 2022-01-22,2022-01-25,YouGov,Economist,489,a,D,Biden,FALSE,Do you approve or disapprove of the way Joe Biden is handling COVID-19?,76,15,https://docs.cdn.yougov.com/w6rek2s6zg/econTabReport.pdf
 2022-01-22,2022-01-25,YouGov,Economist,468,a,I,Biden,FALSE,Do you approve or disapprove of the way Joe Biden is handling COVID-19?,29,60,https://docs.cdn.yougov.com/w6rek2s6zg/econTabReport.pdf
+2022-01-13,2022-01-18,AP-NORC,"",1161,a,all,Biden,FALSE,"Overall, do you approve or disapprove of the way Joe Biden is handling the coronavirus pandemic?",45,54,https://apnorc.org/projects/with-omicron-americans-are-taking-more-personal-precautions/
